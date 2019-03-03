@@ -1,0 +1,7 @@
+D:\source\repos\PF White Space Removal\PF White Space Removal\bin\Debug\PF White Space Removal.exe.config
+D:\source\repos\PF White Space Removal\PF White Space Removal\bin\Debug\PF White Space Removal.exe
+D:\source\repos\PF White Space Removal\PF White Space Removal\bin\Debug\PF White Space Removal.pdb
+D:\source\repos\PF White Space Removal\PF White Space Removal\obj\Debug\PF White Space Removal.csprojAssemblyReference.cache
+D:\source\repos\PF White Space Removal\PF White Space Removal\obj\Debug\PF White Space Removal.csproj.CoreCompileInputs.cache
+D:\source\repos\PF White Space Removal\PF White Space Removal\obj\Debug\PF White Space Removal.exe
+D:\source\repos\PF White Space Removal\PF White Space Removal\obj\Debug\PF White Space Removal.pdb
